@@ -1,6 +1,6 @@
-module github.com/ethereum/go-ethereum
+module github.com/codysnider/go-ethereum
 
-go 1.15
+go 1.17
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v0.3.0
